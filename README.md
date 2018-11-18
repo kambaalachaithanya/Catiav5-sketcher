@@ -31,7 +31,7 @@ https://www.youtube.com/watch?v=DKCrnWSf_KI
 
 #### Source Files Path
 
-##### For Part 1
+- ##### For Part 1
    This file has collection of 2D images both predefined and custom profiles,
    [Download file here](https://github.com/kambaalachaithanya/Catiav5-sketcher/blob/master/part1/catia%20sketch%20part%201.CATPart) 
 
