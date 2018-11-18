@@ -1,4 +1,4 @@
-# Catiav5-sketcher
+# Catiav5-Sketcher
 This repo gives the information about how to draw 2D images in catia v5
 
 ![](https://github.com/kambaalachaithanya/Catiav5-sketcher/blob/master/image/catia.png)
@@ -29,7 +29,7 @@ This tutorial explains about sketcher part in Catia v5 R21 software . It gives i
 *Catia v5 sketcher part 1* 
 https://www.youtube.com/watch?v=DKCrnWSf_KI
 
-#### Source files path
+#### Source Files Path
 
 ##### For Part 1
    This file has collection of 2D images both predefined and custom profiles,
