@@ -15,7 +15,7 @@ https://github.com/kambaalachaithanya/Catiav5-sketcher
 Windows 32/64 bit OS
 Catia v5 R21
 
-![Download link ](https://www.3ds.com/press-releases/single/dassault-systemes-introduces-v5r21/)
+[Download link ](https://www.3ds.com/press-releases/single/dassault-systemes-introduces-v5r21/)
 
 #### Difficulty
 - Basic
@@ -33,7 +33,7 @@ https://www.youtube.com/watch?v=DKCrnWSf_KI
 
 ##### For Part 1
    This file has collection of 2D images both predefined and custom profiles,
-   ![Download file here](https://github.com/kambaalachaithanya/Catiav5-sketcher/blob/master/part1/catia%20sketch%20part%201.CATPart) 
+   [Download file here](https://github.com/kambaalachaithanya/Catiav5-sketcher/blob/master/part1/catia%20sketch%20part%201.CATPart) 
 
 
 
